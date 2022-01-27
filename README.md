@@ -16,7 +16,7 @@ dependencies {
 
 > Step 2. Add  XML
 ```
-    <com.intisar.intisarsignin.IntisarSignin
+    <com.alsheikhaminulislam.intisarsignin.IntisarSignin
         android:id="@+id/intisarSignin"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
