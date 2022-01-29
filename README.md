@@ -3,7 +3,7 @@
 dependencies {
    implementation fileTree(dir: 'libs', include: ['*.jar'])
     ......
-   implementation 'com.github.alsheikhaminulislam:IntisarLoginApi:1.0.0'
+   implementation 'com.github.alsheikhaminulislam:IntisarLoginAPI:1.0.0'
 ```
 ```
 	allprojects {
