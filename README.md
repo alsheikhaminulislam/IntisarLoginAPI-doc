@@ -3,15 +3,10 @@
 dependencies {
    implementation fileTree(dir: 'libs', include: ['*.jar'])
     ......
-   implementation 'com.github.alsheikhaminulislam:IntisarLoginAPI:1.0.0'
+  implementation files("libs/admobnativeteads-1.0.0.aar")
 ```
 ```
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
+	implementation files("libs/admobnativeteads-1.0.0.aar")
 ```
 
 > Step 2. Add  XML
