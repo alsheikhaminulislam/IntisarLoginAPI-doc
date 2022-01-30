@@ -3,10 +3,10 @@
 dependencies {
    implementation fileTree(dir: 'libs', include: ['*.jar'])
     ......
-  implementation files("libs/admobnativeteads-1.0.0.aar")
+  implementation files("libs/firebasemessaging-1.0.0.aar")
 ```
 ```
-	implementation files("libs/admobnativeteads-1.0.0.aar")
+	implementation files("libs/firebasemessaging-1.0.0.aar")
 ```
 
 > Step 2. Add  XML
